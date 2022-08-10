@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{1054:function(n,t,s){n.exports=s.p+"assets/img/u1723.98a1ce36.png"},1070:function(n,t,s){"use strict";s.r(t);var i=s(1054),r={data:function(){return{imgUrl:i}}},u=s(8),a=Object(u.a)(r,(function(){return(0,this._self._c)("MagnifyingGlass",{attrs:{imgUrl:this.imgUrl}})}),[],!1,null,null,null);t.default=a.exports}}]);
